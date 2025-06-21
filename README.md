@@ -41,4 +41,6 @@ A text summarization tool is a software application that uses natural language p
 
 ![Image](https://github.com/user-attachments/assets/fdef7e41-c83f-47bb-97a8-ba6d6c4fc8aa)
 
+![Image](https://github.com/user-attachments/assets/21d606fa-e183-4904-92d0-2c0649748f82)
+
   
