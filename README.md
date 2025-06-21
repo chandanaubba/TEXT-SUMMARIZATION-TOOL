@@ -14,15 +14,9 @@
 
 *DESCRIPTION*
 i learn so many things while doing these tasks.for implementation of tasks i use vs code and idle python.
-*TASK1-TEXT SUMMARIZATION TOOL*:
+
+***TASK1-TEXT SUMMARIZATION TOOL*:**
 A text summarization tool is a software application that uses natural language processing (NLP) techniques to automatically summarize lengthy articles, documents, or texts into concise and meaningful summaries. The goal of such a tool is to extract the most important information from the original text and present it in a condensed form, saving time and effort for readers.for this implementation i used vs code.
-
-*Key Features:*
-
-1. *Automatic Summarization*: The tool uses algorithms to analyze the input text and identify the most relevant sentences or phrases.
-2. *Natural Language Processing*: NLP techniques are employed to understand the context, meaning, and relationships between words and phrases in the text.
-3. *Concise Output*: The tool generates a summary that is significantly shorter than the original text, while still conveying the essential information.
-4. *Customizable*: Some text summarization tools allow users to adjust the summary length, tone, and style to suit their needs.
 
 *Benefits:*
 
@@ -37,11 +31,6 @@ A text summarization tool is a software application that uses natural language p
 3. *Education*: Text summarization tools can assist students in understanding complex texts and studying for exams.
 
 ***TASK2-SPEECH RECOGNITON SYSTEM***:Building a basic speech-to-text system using pre-trained models and libraries like SpeechRecognition or Wav2Vec involves several steps:
-
-## Key Components
-- *Acoustic Model*: Converts audio signals into phonetic units.
-- *Language Model*: Predicts the probability of word sequences.
-- *Decoder*: Combines outputs from the acoustic and language models to generate text.
 
 ## Step-by-Step Guide
 1. *Install Required Libraries*: Install libraries like `SpeechRecognition`, `PyAudio`, `torch`, `torchaudio`, and `transformers` using pip.
@@ -68,12 +57,6 @@ A text summarization tool is a software application that uses natural language p
 ## Overview
 Neural style transfer is a technique that uses convolutional neural networks (CNNs) to transfer the style of one image to another. This is achieved by separating the content and style of two images and recombining them to create a new image.
 
-## Key Components
-- *Content Image*: The image that provides the content for the output image.
-- *Style Image*: The image that provides the style for the output image.
-- *Neural Network*: A CNN that extracts features from the content and style images.
-- *Loss Functions*: Two loss functions are used: content loss and style loss. Content loss measures the difference between the content image and the output image, while style loss measures the difference between the style image and the output image.
-
 ## Step-by-Step Guide
 1. *Load Images*: Load the content and style images.
 2. *Preprocess Images*: Preprocess the images by resizing, normalizing, and converting them to tensors.
@@ -99,23 +82,12 @@ Neural style transfer is a technique that uses convolutional neural networks (CN
 ## Overview
 Text generation models use natural language processing (NLP) techniques to generate human-like text based on a given prompt or topic. GPT (Generative Pre-trained Transformer) and LSTM (Long Short-Term Memory) are two popular architectures used for text generation.
 
-## Key Components
-- *Training Data*: A large dataset of text is required to train the model.
-- *Model Architecture*: The model architecture determines how the text is generated. GPT uses a transformer-based architecture, while LSTM uses a recurrent neural network (RNN) architecture.
-- *Tokenizer*: A tokenizer is used to convert text into numerical tokens that the model can understand.
-- *Loss Function*: A loss function is used to measure the difference between the generated text and the target text.
-
 ## Step-by-Step Guide
 1. *Prepare Training Data*: Collect and preprocess a large dataset of text relevant to the specific topic.
 2. *Choose Model Architecture*: Choose between GPT or LSTM architecture based on the specific requirements of the project.
 3. *Train Model*: Train the model on the prepared dataset using a suitable loss function and optimization algorithm.
 4. *Evaluate Model*: Evaluate the performance of the model using metrics such as perplexity, BLEU score, or ROUGE score.
 5. *Fine-tune Model*: Fine-tune the model by adjusting hyperparameters or using techniques such as transfer learning.
-
-##  Libraries and Models
-- *Transformers*: The Transformers library provides pre-trained GPT models and a simple interface for fine-tuning them.
-- *PyTorch*: PyTorch is a popular deep learning framework that provides tools for building and training text generation models.
-- *Keras*: Keras is another popular deep learning framework that provides tools for building and training text generation models.
 
 ## Applications
 - *Content Generation*: Text generation models can be used to generate content for articles, social media posts, or product descriptions.
@@ -126,3 +98,9 @@ Text generation models use natural language processing (NLP) techniques to gener
 - *Automated Content Generation*: Text generation models can automate the process of generating content, saving time and effort.
 - *Personalized Content*: Text generation models can generate personalized content based on user preferences or interests.
 - *Improved Language Understanding*: Text generation models can improve language understanding by generating text that is coherent and contextually relevant.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/fdef7e41-c83f-47bb-97a8-ba6d6c4fc8aa)
+
+  
